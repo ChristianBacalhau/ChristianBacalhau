@@ -1,5 +1,3 @@
-### <div align="center">I'm Christian Bacalhau, an aspiring Backend Developer.</div>  
-  
 
 # Projects  
   
