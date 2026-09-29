@@ -18,7 +18,7 @@
 
 - 🏃‍♂️ [NU Track](https://github.com/RobW321/JazzMen-NUTrack-Project?tab=readme-ov-file)
 
-- 🏈 [Machine Learning Drafter](https://github.com/gurshansid/MLAutoDrafter)
+- 🏈 [Machine Learning Football Auto-Drafter](https://github.com/gurshansid/MLAutoDrafter)
 
 <br/>  
 
